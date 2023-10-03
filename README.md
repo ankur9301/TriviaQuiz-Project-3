@@ -36,7 +36,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 
 ## Notes
-https://www.loom.com/share/3f1a6838ff7848d287eb8d404555a3ab?sid=b7c0d218-5345-4b43-b9cb-682e3cb3faf3
+<div>
+    <a href="https://www.loom.com/share/3f1a6838ff7848d287eb8d404555a3ab">
+
+    </a>
+    <a href="https://www.loom.com/share/3f1a6838ff7848d287eb8d404555a3ab">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3f1a6838ff7848d287eb8d404555a3ab-with-play.gif">
+    </a>
+  </div>
 
 
 
