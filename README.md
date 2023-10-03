@@ -13,17 +13,17 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can view the current question and 4 different answers
-- [ ] User can view the next question after tapping an answer
-- [ ] User can answer at least 3 different questions
+- [X] User can view the current question and 4 different answers
+- [X] User can view the next question after tapping an answer
+- [X] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
 
-- [ ] User can use the vertical orientation of the app on any device
+- [X] User can use the vertical orientation of the app on any device
 - [ ] User can track the question they are on and how many questions are left
 - [ ] User can see how many questions they got correct after answering all questions
-- [ ] User should be able to restart the game after they've finished answering all questions
+- [X] User should be able to restart the game after they've finished answering all questions
 
 The following **additional** features are implemented:
 
@@ -33,17 +33,11 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
 
 ## Notes
-![image](https://github.com/ankur9301/project3/assets/114321826/24d524bb-616c-4496-90b3-134e904f6696)
+https://www.loom.com/share/3f1a6838ff7848d287eb8d404555a3ab?sid=b7c0d218-5345-4b43-b9cb-682e3cb3faf3
 
-
-*******It has been hard for me to complete the project as everything gets messed up again after completing the half project. I faced trouble in writing code for view controller.swift . 
-I was able to add all buttons and make the board ready but need more time to complete this*******
-
-I am just submitting this as reference of showing at least i gave try for hours.
-I will turn this assignment probably by the day time.
 
 
 
